@@ -1,4 +1,6 @@
 #author: suika
 #hello
-print('hello world')
 print('wow')
+exit(1)
+
+print('hello world')
